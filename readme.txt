@@ -15,7 +15,7 @@ Enables multilingual framework for plugin "All in One SEO Pack".
 
 Enables [qTranslate-X](https://wordpress.org/plugins/qtranslate-x/) multilingual framework for plugin [All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/).
 
-At least version 3.2 of [qTranslate-X](https://wordpress.org/plugins/qtranslate-x/) is required.
+At least version 3.2.2 of [qTranslate-X](https://wordpress.org/plugins/qtranslate-x/) is required.
 
 This plugin is currently a work in progress, please review the [Known Issues](https://wordpress.org/plugins/all-in-one-seo-pack-qtranslate-x/other_notes/) and report the features, which did not work for you.
 
